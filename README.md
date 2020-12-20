@@ -11,8 +11,11 @@ add/edit/delete courses and more.
 
 I have used the following Web Tecnologies:
 Java / Servlet API / JSP
+
 MySQL / Tomcat
+
 Javascript 
+
 Html / Css
 
 
