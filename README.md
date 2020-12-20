@@ -10,6 +10,7 @@ Secretaries are able to view course details (course title, semester, etc), assig
 add/edit/delete courses and more.
 
 I have used the following Web Tecnologies:
+
 Java / Servlet API / JSP
 
 MySQL / Tomcat
